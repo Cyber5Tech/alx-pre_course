@@ -1,1 +1,1 @@
-#Getting familier with Git
+Getting familiar with Git Commands
